@@ -16,4 +16,4 @@ Redes: Wireshark, Nmap, Packet Tracer.
 
 💼 Busco: Mi primera oportunidad profesional en Ciberseguridad o IT Helpdesk para seguir creciendo.
 
-📫 Contáctame: [text](https://www.linkedin.com/in/davidjovenmaqueda/) | davidjoma2007@gmail.com
+📫 Contáctame: [LinkedIn](https://www.linkedin.com/in/davidjovenmaqueda/) | davidjoma2007@gmail.com
