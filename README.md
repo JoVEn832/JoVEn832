@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**JoVEn832/JoVEn832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy David 👋
 
-Here are some ideas to get you started:
+Soy un estudiante apasionado por la seguridad informática y la administración de sistemas. Me encanta entender cómo funcionan las cosas "bajo el capó" en entornos Linux y redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente trabajando en: Proyectos académicos de análisis de tráfico y hardening de Linux.
+
+🏆 Logros: He participado en [X] Hackathons resolviendo retos tecnológicos.
+
+🐧 Tech Stack:
+
+OS: Kali Linux, Ubuntu, Debian.
+
+Redes: Wireshark, Nmap, Packet Tracer.
+
+💼 Busco: Mi primera oportunidad profesional en Ciberseguridad o IT Helpdesk para seguir creciendo.
+
+📫 Contáctame: [text](https://www.linkedin.com/in/davidjovenmaqueda/) | davidjoma2007@gmail.com
